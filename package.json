@@ -47,6 +47,7 @@
     "lodash": "^4.17.21",
     "luxon": "^3.3.0",
     "mongoose": "^8.1.2",
+    "node-fetch": "^3.3.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.0",
     "react-bootstrap-table-next": "^4.0.3",
